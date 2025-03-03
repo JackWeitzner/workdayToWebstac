@@ -1,24 +1,25 @@
-body {
+html, body {
+    width: 100%;
+    height: 100%;
     font-family: Arial, sans-serif;
-    margin: 0;
+    margin: 15px;
     padding: 0;
-  }
-  
-  header {
-    background-color: #004b8d;
-    color: white;
+}
+
+header {
+    background-color: #57000a;
+    color: rgb(255, 255, 255);
     padding: 10px;
     text-align: center;
-  }
-  
-  .course-card {
+}
+
+.course-card {
     border: 1px solid #ddd;
     padding: 15px;
     margin: 10px;
     border-radius: 4px;
-  }
-  
-  .course-card h2 {
+}
+
+.course-card h2 {
     margin-top: 0;
-  }
-  
+}
