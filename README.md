@@ -12,6 +12,7 @@
 - Please DO NOT commit to main. Work from the dev branch and start a new branch for every feature update/patch you add. When an addition is complete and code is working stably do a final commit and open a pull request.
 > For example if I wanted to add the Professor to the course info I would start a new branch off of dev called "addProf", then make my changes so it was working with this addition, then commit changes and open a pull request to merge changes into dev branch.
 - Remember to git pull before starting on something new and git push periodically!
+- This is not an academic project so ask your friends, ask your favorite LLM, just make sure anything you open a pull request with works.
 
 ## Todo List:
 Please check out the todo list in the projects tab! When you start working on something make sure to assign yourself and move to the "working on" bucket. Some tasks are marked **urgent** these should be prioritized for work becuase they are needed by other additions in the queue. 
